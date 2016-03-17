@@ -4,7 +4,7 @@
         <description><![CDATA[Sabira Collection]]></description>
         <link>https://thegrid.ai/sabira-collection/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 17 Mar 2016 18:29:33 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 17 Mar 2016 18:29:44 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/sabira-collection/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Representation]]></title>
@@ -12,13 +12,6 @@
             <link>https://thegrid.ai/sabira-collection/products/index.html</link>
             <guid isPermaLink="false">17fc16c4-2cf7-46d7-915d-157c3dedb575</guid>
             <pubDate>Thu, 17 Mar 2016 18:28:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/275dd1dd-27ee-471b-82ee-107d7078c5e5.jpg">]]></description>
-            <link>https://thegrid.ai/sabira-collection/8929448f-0173-4d22-a514-e61e74c3dcff/index.html</link>
-            <guid isPermaLink="false">8929448f-0173-4d22-a514-e61e74c3dcff</guid>
-            <pubDate>Thu, 17 Mar 2016 16:46:06 GMT</pubDate>
         </item>
     </channel>
 </rss>
