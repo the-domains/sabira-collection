@@ -4,7 +4,7 @@
         <description><![CDATA[Sabira Collection]]></description>
         <link>https://thegrid.ai/sabira-collection/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 17 Mar 2016 19:11:56 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 17 Mar 2016 19:26:20 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/sabira-collection/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Apparel]]></title>
@@ -26,13 +26,6 @@
             <link>https://thegrid.ai/sabira-collection/for-the-home/index.html</link>
             <guid isPermaLink="false">9b0f290b-2f41-47c0-86c2-14b04f37fbde</guid>
             <pubDate>Thu, 17 Mar 2016 18:55:16 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Representation]]></title>
-            <description><![CDATA[<article><h1>Representation</h1><p>Nevada & Lake Tahoe Area</p></article>]]></description>
-            <link>https://thegrid.ai/sabira-collection/products/index.html</link>
-            <guid isPermaLink="false">17fc16c4-2cf7-46d7-915d-157c3dedb575</guid>
-            <pubDate>Thu, 17 Mar 2016 18:30:27 GMT</pubDate>
         </item>
     </channel>
 </rss>
