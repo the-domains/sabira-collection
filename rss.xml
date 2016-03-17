@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Sabira Collection]]></title>
+        <description><![CDATA[Sabira Collection]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Thu, 17 Mar 2016 16:46:57 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/275dd1dd-27ee-471b-82ee-107d7078c5e5.jpg">]]></description>
+            <link>undefined8929448f-0173-4d22-a514-e61e74c3dcff/index.html</link>
+            <guid isPermaLink="false">8929448f-0173-4d22-a514-e61e74c3dcff</guid>
+            <pubDate>Thu, 17 Mar 2016 16:46:06 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
